@@ -3,13 +3,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore'; // Import Firestore
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAHQcPFFSCKdDQpcqfTiKmjCdkT38G2ybA",
-    authDomain: "distro-90045.firebaseapp.com",
-    projectId: "distro-90045",
-    storageBucket: "distro-90045.appspot.com",
-    messagingSenderId: "264920780921",
-    appId: "1:264920780921:web:1ddb9d26d3bc18c1dcc4a8",
-    measurementId: "G-D024G8V98P"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 // Check if Firebase has already been initialized
