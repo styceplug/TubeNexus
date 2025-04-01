@@ -1,9 +1,20 @@
-# React + Vite
+**TubeNexus | Music Distribution Platform**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TubeNexus is an innovative music distribution platform designed to help artists, producers, and labels easily distribute their music to streaming platforms and digital stores. Our website provides a seamless experience for music creators to manage their content, track royalties, and reach a global audience.
 
-Currently, two official plugins are available:
+**Key Features:**
+	•	Music Upload & Distribution: Artists can upload their tracks, album artwork, and metadata, and distribute them to top platforms like Spotify, Apple Music, and more.
+	•	Artist Dashboard: A personalized dashboard for artists to track their performance, including stream statistics, revenue tracking, and content management.
+	•	Royalty Management: Transparent royalty reporting and payment tracking to ensure that artists are paid fairly for their streams and sales.
+	•	Music Catalog: Browse a curated catalog of music, allowing fans to discover new tracks and albums.
+	•	Licensing Opportunities: Tools for artists to offer their music for licensing, helping them explore additional revenue streams.
+	•	Industry News: Stay updated with the latest news, trends, and updates in the music industry through a dedicated news section.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# TubeNexus
+**Built With:**
+	•	React: The frontend is built using React for a fast and responsive user experience.
+	•	Node.js: The backend uses Node.js for server-side logic and API handling.
+	•	MongoDB: A NoSQL database that stores user and track data securely.
+	•	Stripe API: Integrated for handling payments and royalties.
+
+TubeNexus aims to make music distribution easy, transparent, and artist-friendly, giving musicians the tools they need to grow their careers.
+
